@@ -20,7 +20,7 @@
   margin-bottom: 24px;
 }
 
-#categories .subitem {
+#categories .item li {
   color: #2e2f42;
   border: 1px solid #808080;
   border-radius: 4px;
@@ -30,6 +30,6 @@
   padding: 8px 16px;
 }
 
-#categories .subitem:not(:last-child) {
+#categories .item li:not(:last-child) {
   margin-bottom: 8px;
 }
